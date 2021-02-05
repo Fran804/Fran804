@@ -1,7 +1,5 @@
 ![](https://github.com/Fran804/Fran804/blob/main/GameDev.gif)
 
-<!--
-**Fran804/Fran804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ---
 
 ### Hi there, welcome to my GitHub ✨
