@@ -10,3 +10,8 @@
 
 :small_blue_diamond: You can check my **indie website** in itch.io where i´m currently working on new projects: <https://bluesword.itch.io/> :space_invader:
 
+---
+### Technologies
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
