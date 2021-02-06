@@ -1,6 +1,4 @@
 ## Hi there, welcome to my GitHub ✨
-
----
 ![](https://github.com/Fran804/Fran804/blob/main/GameDev.gif)
 
 ### :small_blue_diamond:Technologies:small_blue_diamond:
