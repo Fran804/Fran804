@@ -1,4 +1,5 @@
 ## Hi there, welcome to my GitHub ✨
+
 ---
 ![](https://github.com/Fran804/Fran804/blob/main/GameDev.gif)
 
@@ -6,7 +7,8 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![MySQL](https://img.shields.io/badge/-MySQL-1572B6?style=flat-square&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-232F3E?style=flat-square&logo=mysql)
+
 ---
 :small_blue_diamond: I’m currently studying **Engineering in technology and software development** :computer:
 
