@@ -14,4 +14,4 @@
 ---
 :small_blue_diamond: I’m currently graduate of the career **Engineering in technology and software development** :computer:
 
-:small_blue_diamond: You can check my **Portfolio website** to know more details about me: <https://fran804.github.io/Portafolio/)https://fran804.github.io/Portafolio/>
+:small_blue_diamond: You can check my **Portfolio website** to know more details about me: <https://fran804.github.io/Portafolio/>
